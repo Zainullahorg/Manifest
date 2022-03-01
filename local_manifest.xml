@@ -12,7 +12,7 @@
 
 	<!-- Trees -->
 	<project path="device/xiaomi/vayu" name="device_xiaomi_vayu" revision="tmp1" remote="ss" clone-depth="1"/>	
-	<project path="kernel/xiaomi/sm8150" name="kernel_sm8150" revision="12" remote="ss" clone-depth="1"/>
+	<project path="kernel/xiaomi/sm8150" name="NGK_android_kernel_xiaomi_sm8150" revision="12" remote="ss" clone-depth="1"/>
 	<project path="vendor/xiaomi/vayu" name="vendor_xiaomi_vayu" revision="12" remote="ss" clone-depth="1"/>
 	<project path="vendor/xiaomi/devicesettings" name="vendor_xiaomi_device_settings" remote="ss" revision="12" />
 
